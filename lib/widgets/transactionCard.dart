@@ -15,10 +15,10 @@ class TransactionCard extends StatelessWidget {
           Container(
             margin: EdgeInsets.all(10),
             width: 90,
-            child: Text('\$' + tx.amount.toString(),
+            child: Text('\$' + tx.amount.toStringAsFixed(0),
                 style: TextStyle(
-                  color: Colors.purple,
-                  fontSize: 25,
+                  color: Theme.of(context).accentColor,
+                  fontSize: 20,
                   fontWeight: FontWeight.bold,
                 )),
             decoration: BoxDecoration(
@@ -37,6 +37,7 @@ class TransactionCard extends StatelessWidget {
                 Text(
                   tx.title,
                   style: TextStyle(
+                    fontSize: 20,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -49,7 +50,7 @@ class TransactionCard extends StatelessWidget {
                     tx.id + " ",
                     style: TextStyle(
                       fontWeight: FontWeight.w500,
-                      color: Colors.blueGrey,
+                      color: Theme.of(context).accentColor,
                     ),
                   ),
                 ),
