@@ -1,6 +1,40 @@
-# expenses_app
+# my_expense
 
-A new Flutter project.
+"My Expense " is an android app which created using Flutter framework and dart language.
+Alongwith Firebase is used as a database.
+
+## Application of app
+This flutter application can be used to keep track of daily expenses. User can add the information of each transaction/expense to this app after a transaction.
+This app stores data of all transactions in firebase server, and it shows expense done in last seven days in form of graph.
+
+User can monitor on which day he has done maximum expense in last seven days.
+
+## Technologies used
+1] Flutter Frameword
+2] Android Studio
+3] Dart Language
+4] Google Firebase Database
+
+## User Interface
+## Add Place
+<table>
+  <tr>
+	<th>Expense App</th>
+	<th>Expense App</th>
+	<th>Expense App</th>
+	<th>Expense App</th>
+	<th>Expense App</th>
+  </tr>
+  <tr>
+	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_01.png" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_02.png" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_03.png" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_04.png" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_05.png" width="250" /> </td>
+	
+  </tr>
+</table>
+
 
 ## Getting Started
 
