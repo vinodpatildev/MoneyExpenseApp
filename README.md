@@ -27,9 +27,9 @@ User can monitor on which day he has done maximum expense in last seven days.
   </tr>
   <tr>
 	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_01.png" width="250" /> </td>
-	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_02.png" width="250" /> </td>
-	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_03.png" width="250" /> </td>
-	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_04.png" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_02.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_03.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_04.jpg" width="250" /> </td>
 	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_05.png" width="250" /> </td>
 	
   </tr>
