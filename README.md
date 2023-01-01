@@ -16,14 +16,13 @@ User can monitor on which day he has done maximum expense in last seven days.
 4] Google Firebase Database
 
 ## User Interface
-## Add Place
 <table>
   <tr>
-	<th>Expense App</th>
-	<th>Expense App</th>
-	<th>Expense App</th>
-	<th>Expense App</th>
-	<th>Expense App</th>
+	<th>Expense App Home</th>
+	<th>Bottom Sheet</th>
+	<th>Enter Data</th>
+	<th>Choose Data</th>
+	<th>List of Expenses</th>
   </tr>
   <tr>
 	<td> <img src="https://github.com/vinodpatildev/MoneyExpenseApp/blob/master/screenshots%20of%20app/flutter_01.png" width="250" /> </td>
